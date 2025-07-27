@@ -1,6 +1,6 @@
 #  Quantum Drug Innovator — DrugAI 
 
-**DrugAI** is an interactive AI-powered platform that evaluates drug molecules for safety, effectiveness, and biological compatibility — all in one place. Designed for chemists, bioinformaticians, and curious minds, DrugAI blends machine learning, visual analytics, and bio-inspired storytelling into a powerful drug discovery dashboard.
+**DrugAI** is an interactive AI-powered platform that evaluates drug molecules for safety, effectiveness, and biological compatibility — all in one place. Designed for chemists, bioinformaticians, and curious minds, DrugAI blends machine learning, visual analytics, and bio-inspired into a powerful drug discovery dashboard.
 
 ---
 
